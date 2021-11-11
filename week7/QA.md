@@ -1,19 +1,17 @@
 ---
-
 title: QA
 tags: QA, Continuous Integration, Github Actions
 author: @elenamarinaki
-
 ---
 
 ## QA
-![](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif =750x)
+![](https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif)
 *I am really sorry* 🤷‍♀️
 
 ---
 
 ## Continuous integration 👩‍💻
-![](https://media.giphy.com/media/3o7buhsTerQAmHRztC/giphy.gif =400x)
+![](https://media.giphy.com/media/3o7buhsTerQAmHRztC/giphy.gif)
 
 ---
 
@@ -49,12 +47,12 @@ jobs:
 
 - going in the `Actions` tab in our github repo ➡️
 
-![](https://i.imgur.com/3gQ5jYF.png =800x)
+![](https://i.imgur.com/3gQ5jYF.png)
 
 ---
 
 - If you click into the workflow that ran, you’ll see a summary of what happened. This is where your job and action file name shows up.
-![](https://i.imgur.com/eB0hnDa.gif =600x)
+![](https://i.imgur.com/eB0hnDa.gif)
 
 ---
 
@@ -165,7 +163,7 @@ steps:
 
 ---
 
-![](https://i.imgur.com/4rY3AuR.gif =700x)
+![](https://i.imgur.com/4rY3AuR.gif)
 
 ---
 
@@ -188,7 +186,7 @@ The `uses:` ... is seen as a continuation of the previous value for name. But it
 ⬆️ but this will!! 🤦‍♀️
 
 
-![](https://media.giphy.com/media/xkh1NwYmXwv2o/giphy.gif =300x)
+![](https://media.giphy.com/media/xkh1NwYmXwv2o/giphy.gif)
 
 ---
 
@@ -218,13 +216,13 @@ Let's test a `uses` using an existing action `setup-node` with a `run` using an 
 
 ---
 
-![](https://i.imgur.com/vnIA5H8.gif =800x)
+![](https://i.imgur.com/vnIA5H8.gif)
 
 ---
 
 ### Last example (I promise 🙄)
 
-![](https://media.giphy.com/media/13Syr1nwDffUcw/giphy.gif =400x)
+![](https://media.giphy.com/media/13Syr1nwDffUcw/giphy.gif)
 
 ---
 
@@ -243,7 +241,7 @@ steps:
 ---
 
 That's it! 🤓 Feel free to ask any questions, there's tons more to research! 🙃
-![](https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif =500x)
+![](https://media.giphy.com/media/3oz8xIsloV7zOmt81G/giphy.gif)
 
 ---
 
